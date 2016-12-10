@@ -8,3 +8,9 @@
     background-position: center center;
     background-size: cover;
 }
+.hiddentext {
+	opacity: 0;
+}
+.hiddentext:hover {
+	opacity: 1.0;
+}
